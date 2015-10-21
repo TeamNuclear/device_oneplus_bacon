@@ -28,6 +28,9 @@ PRODUCT_CHARACTERISTICS := nosdcard
 PRODUCT_PACKAGES += \
     init.qcom.bt.sh
 
+# Stlport (build temp)
+PRODUCT_PACKAGES +=  libstlport
+
 # Ramdisk
 PRODUCT_PACKAGES += \
     libinit_bacon \
