@@ -15,9 +15,14 @@
 "branch": "cm-11.0"
 },
 {
-"repository": "TV-LP51-Devices/proprietary_vendor_oneplus",
+"repository": "android_external_sony_boringssl-compat",
+"target_path": "external/sony/boringssl-compat"
+"branch": "cm-13.0"
+},
+{
+"repository": "TheMuppets/proprietary_vendor_oneplus",
 "target_path": "vendor/oneplus",
-"branch": "6.0"
+"branch": "cm-13.0"
 },
 {
 "repository": "TheMuppets/proprietary_vendor_oppo",
